@@ -1,4 +1,4 @@
-package com.example.obrestdatajpa;
+package com.example.obrestdatajpa.model;
 
 import jakarta.persistence.*;
 
